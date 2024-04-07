@@ -269,8 +269,8 @@ a {
 
 @media (min-width:600px) {
     .sale-img img {
-        width: 500px;
-        height:270px;
+        width: 350px;
+        height:160px;
     }
 
     .navbar {
