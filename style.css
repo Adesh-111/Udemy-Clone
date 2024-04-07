@@ -265,3 +265,23 @@ a {
         width: 100%;
     }
 }
+
+
+@media (min-width:600px) {
+    .sale-img img {
+        width: 500px;
+        height:270px;
+    }
+
+    .navbar {
+        width: 100%;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .categories {
+        width: 100%;
+    }
+}
