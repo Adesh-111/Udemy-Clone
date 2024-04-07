@@ -189,12 +189,17 @@ a {
 @media (max-width:600px){
     .sale-image {
         width: 100%;
-        height: 250px;
+        height: 200px;
     }
 
     .categories{
         flex-basis:2.5;
         flex-wrap: wrap;
+    }
+
+    .navbar{
+        flex-wrap: wrap;
+        flex-basis: 350px;
     }
 
 }
