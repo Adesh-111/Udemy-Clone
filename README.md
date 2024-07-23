@@ -21,6 +21,14 @@ Welcome to my Udemy clone project! This project is a replication of the popular 
 
 You can view the project live [here](https://adesh-111.github.io/Udemy-Clone/).
 
+## Output
+
+![image](https://github.com/user-attachments/assets/b2eba8ee-3438-402a-97e6-2199ed9dfdea)
+![image](https://github.com/user-attachments/assets/50d1e63b-715a-4432-a912-f58f99376658)
+![image](https://github.com/user-attachments/assets/c4ef3f2d-1083-4d71-9ee8-e0199455db51)
+
+
+
 ## Source Code
 
 The source code for this project is available on GitHub [here](https://github.com/Adesh-111/Udemy-Clone). Feel free to explore the codebase, suggest improvements, or use it as a reference for your own projects.
